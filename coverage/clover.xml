@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1566294707263" clover="3.2.0">
-  <project timestamp="1566294707263" name="All files">
+<coverage generated="1566295066627" clover="3.2.0">
+  <project timestamp="1566295066627" name="All files">
     <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="3" coveredelements="1" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
-    <file name="sum.js" path="/Users/fabioalvaro/temp/morango/sum.js">
+    <file name="sum.js" path="/Users/fabioalvaro/workspace/react/react-tests/sum.js">
       <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <line num="3" count="0" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
